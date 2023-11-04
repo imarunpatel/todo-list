@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "arun-patel-7332b"
+  },
+  "targets": {
+    "arun-patel-7332b": {
+      "hosting": {
+        "todo-list": [
+          "todo-list-33bd0"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
