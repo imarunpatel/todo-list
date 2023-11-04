@@ -1,3 +1,9 @@
+## Todo List
+• Developed a dynamic and user-friendly To-do List application with advanced features, enabling users to create tasks, upload images, and manage task progress seamlessly
+• Implemented drag-and-drop functionality, allowing tasks to effortlessly move between different columns, such as “To-do”, “Progress”, and “Done”,
+
+Tech Stack: NextJS, Tailwind, Zustand, Firebase
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
